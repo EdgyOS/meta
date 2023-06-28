@@ -1,0 +1,4 @@
+EdgyOS:
+- Gnome (modified) https://pastebin.com/6gk8NfMV
+- Updates on Polygon "ENS"+Git (pave the way for W3U)
+- based in Floflis, pave the way for UniOS
